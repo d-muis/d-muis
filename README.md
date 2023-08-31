@@ -4,10 +4,11 @@
 ### Languages:
 
 - Python
-- GO
-- Rust (learning)
-- R (basic)
-- C (basic)
+- HTML+CSS
+- GO (learning)
+- R
+- C
+
 
 
 ### Tech:
@@ -35,6 +36,25 @@
   - CPU programming
   - RISC-V
 
+
+### Previous Projects: (private)
+
+- MSc Thesis Project:
+  - Building a crowdsourcing data collection infrastructure for conversational agents
+  - Expanding functionality of the [SIC framework](https://socialrobotics.atlassian.net/wiki/spaces/CBSR/overview) by automating web application deployment
+  - Creating an interactive data visualization dashboard in [Streamlit](https://streamlit.io/)
+ 
+- BSc/Eng Thesis Project:
+  - Designing and implementing an RFID-based live event/facility control system using an ATmega328P microcontroller. 
+  - Using RFID tags, the system allows participants/customers to access facilities or services, including lockers, payment etc.
+  - Additionally, it allows event organizers to keep track of the number and movement of participants, identify hotspots etc.
+ 
+- Stock market prediction using Twitter
+  - Using webscraping, data mining and sentiment analysis to analyze tweets by outspoken business owners 
+    as well as tweets related to them and their businesses, in order to prove and predict their effect on the stock market
+  - Achieved accuracy higher than baseline, results statistically significant (on the example of Musk and Tesla)
+    
+    
 
 <!--
 <table width:100% border="0" cellspacing="0" cellpadding="0">
