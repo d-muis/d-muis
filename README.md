@@ -38,6 +38,10 @@
 
 ## Tech:
 
+<!--
+<img align="right" src="https://github.com/d-muis/d-muis/assets/71331759/cd82ae75-7552-44e9-8ca5-2adf9c5c235f">
+-->
+
 - Distributed systems
 - IoT / Smart Home systems
 - Conversational AI
