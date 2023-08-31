@@ -1,4 +1,4 @@
-![cyborg-typing](https://github.com/d-muis/d-muis/assets/71331759/290158bf-e61a-4e85-8d0f-125eec609914)
+![cyborg-typing](https://github.com/d-muis/d-muis/assets/71331759/8bb09c1f-2bb4-49ce-b721-9f26f93af82f)
 
 
 ### Programming Languages:
