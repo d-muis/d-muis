@@ -2,7 +2,7 @@
 ![cyborg-typing](https://github.com/d-muis/d-muis/assets/71331759/8bb09c1f-2bb4-49ce-b721-9f26f93af82f)
 
 
-## Languages:
+### Languages:
 
 - Python
 - HTML+CSS
@@ -12,7 +12,7 @@
 
 ---
 
-## Tech:
+### Tech:
 
 - Distributed systems
 - IoT / Smart Home systems
@@ -23,8 +23,8 @@
 
 ---
 
-## Skills:
-
+### Skills:
+<!--
 - Linux sys admin:
   - RHEL
   - Debian/Ubuntu
@@ -37,39 +37,41 @@
   - Logic circuits
   - CPU programming
   - RISC-V
-
-<table>
-  <tr>
+-->
+<table width:100% border="0" cellspacing="0" cellpadding="0">
+ <tr>
+    <th width="325px"><b style="font-size:50px">Linux system administration</b></td>
+    <th width="325px"><b style="font-size:50px">DevOps tools</b></td>
+    <th width="325px"><b style="font-size:40px">Electronics</b></td>
+ </tr>
+ <tr>
     <td>
       <ul>
-       <li>Linux system administration
-         <ul>
            <li>RHEL-based systems</li>
            <li>Debian/Ubuntu-based systems</li>
            <li>Arch-based systems</li>
-         </ul>
-       </li>
-       <li>DevOps tools
-         <ul>
+      </ul>
+    </td>
+    <td>
+      <ul>
            <li>Git</li>
            <li>Docker</li>
            <li>Ansible</li>
-         </ul>
-       </li>
-       <li>Electronics
-         <ul>
+      </ul>
+    </td>
+    <td>
+      <ul>
            <li>Advanced logic</li>
            <li>CPU programming</li>
            <li>RISC-V architecture</li>
-         </ul>
-       </li>
+      </ul>
     </td>
  </tr>
 </table>
 
 ---
 
-## Previous Projects:
+### Previous Projects:
 
 - MSc Thesis Project:
   - Building a crowdsourcing data collection infrastructure for conversational agents
