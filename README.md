@@ -1,5 +1,8 @@
 ![cyborg-typing](https://github.com/d-muis/d-muis/assets/71331759/290158bf-e61a-4e85-8d0f-125eec609914)
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+asdasd                     | asdasd
 #### Programming Languages:
 - Python
 - GO
