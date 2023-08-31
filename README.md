@@ -1,39 +1,40 @@
 ![cyborg-typing](https://github.com/d-muis/d-muis/assets/71331759/8bb09c1f-2bb4-49ce-b721-9f26f93af82f)
 
 
-### Programming Languages:
-```
+### Languages:
+
 - Python
 - GO
 - Rust (learning)
+- R (basic)
 - C (basic)
-```
 
-### Fields of Interest:
-```
+
+### Tech:
+
 - Distributed systems
 - IoT / Smart Home systems
 - Conversational AI
 - Natural Language Processing
 - Data Engineering
 - CLI applications
-```
+
 
 ### Skills:
-```
-- Linux system administration:
-  - RHEL-based systems
-  - Debian/Ubuntu-based systems
-  - Arch-based systems
+
+- Linux sys admin:
+  - RHEL
+  - Debian/Ubuntu
+  - Arch
 - DevOps tools:
   - Git
   - Docker
   - Ansible
 - Electronics:
-  - Advanced logic
+  - Logic circuits
   - CPU programming
-  - RISCV architecture
-```
+  - RISC-V
+
 
 <!--
 <table width:100% border="0" cellspacing="0" cellpadding="0">
