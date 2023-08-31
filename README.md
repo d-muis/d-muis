@@ -1,10 +1,9 @@
----
 
 ![cyborg-typing](https://github.com/d-muis/d-muis/assets/71331759/8bb09c1f-2bb4-49ce-b721-9f26f93af82f)
 
 ---
 
-### Languages:
+## Languages:
 
 - Python
 - HTML+CSS
@@ -14,7 +13,7 @@
 
 ---
 
-### Tech:
+## Tech:
 
 - Distributed systems
 - IoT / Smart Home systems
@@ -25,7 +24,7 @@
 
 ---
 
-### Skills:
+## Skills:
 
 - Linux sys admin:
   - RHEL
@@ -42,7 +41,7 @@
 
 ---
 
-### Previous Projects: (private)
+## Previous Projects:
 
 - MSc Thesis Project:
   - Building a crowdsourcing data collection infrastructure for conversational agents
