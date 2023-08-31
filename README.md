@@ -1,11 +1,11 @@
 ![cyborg-typing](https://github.com/d-muis/d-muis/assets/71331759/290158bf-e61a-4e85-8d0f-125eec609914)
 
 
-<table border="0">
+<table width:100% border="0" cellspacing="0" cellpadding="0">
  <tr>
-    <td><b style="font-size:30px">Programming Languages</b></td>
-    <td><b style="font-size:30px">Fields of Interest</b></td>
-    <td><b style="font-size:30px">Skills</b></td>
+    <th width="325px"><b style="font-size:50px">Programming Languages</b></td>
+    <th width="325px"><b style="font-size:50px">Fields of Interest</b></td>
+    <th width="325px"><b style="font-size:40px">Skills</b></td>
  </tr>
  <tr>
     <td>
