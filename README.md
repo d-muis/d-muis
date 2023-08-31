@@ -38,6 +38,35 @@
   - CPU programming
   - RISC-V
 
+<table>
+  <tr>
+    <td>
+      <ul>
+       <li>Linux system administration
+         <ul>
+           <li>RHEL-based systems</li>
+           <li>Debian/Ubuntu-based systems</li>
+           <li>Arch-based systems</li>
+         </ul>
+       </li>
+       <li>DevOps tools
+         <ul>
+           <li>Git</li>
+           <li>Docker</li>
+           <li>Ansible</li>
+         </ul>
+       </li>
+       <li>Electronics
+         <ul>
+           <li>Advanced logic</li>
+           <li>CPU programming</li>
+           <li>RISC-V architecture</li>
+         </ul>
+       </li>
+    </td>
+ </tr>
+</table>
+
 ---
 
 ## Previous Projects:
