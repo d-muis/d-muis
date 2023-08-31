@@ -6,9 +6,9 @@
 
 <table width:100% border="0" cellspacing="0" cellpadding="0">
  <tr>
-    <th width="325px"><b style="font-size:50px">Linux sysadmin/b></td>
-    <th width="325px"><b style="font-size:50px">DevOps tools</b></td>
-    <th width="325px"><b style="font-size:40px">Electronics</b></td>
+    <th width="325px"><b>Linux sysadmin</b></th>
+    <th width="325px"><b>DevOps tools</b></th>
+    <th width="325px"><b>Electronics</b></th>
  </tr>
  <tr>
     <td>
