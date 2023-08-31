@@ -2,54 +2,20 @@
 ![cyborg-typing](https://github.com/d-muis/d-muis/assets/71331759/8bb09c1f-2bb4-49ce-b721-9f26f93af82f)
 
 
-### Languages:
+## Skills:
 
-- Python
-- HTML+CSS
-- GO (learning)
-- R
-- C
-
----
-
-### Tech:
-
-- Distributed systems
-- IoT / Smart Home systems
-- Conversational AI
-- Natural Language Processing
-- Data Engineering
-- CLI applications
-
----
-
-### Skills:
-<!--
-- Linux sys admin:
-  - RHEL
-  - Debian/Ubuntu
-  - Arch
-- DevOps tools:
-  - Git
-  - Docker
-  - Ansible
-- Electronics:
-  - Logic circuits
-  - CPU programming
-  - RISC-V
--->
 <table width:100% border="0" cellspacing="0" cellpadding="0">
  <tr>
-    <th width="325px"><b style="font-size:50px">Linux system administration</b></td>
+    <th width="325px"><b style="font-size:50px">Linux sysadmin/b></td>
     <th width="325px"><b style="font-size:50px">DevOps tools</b></td>
     <th width="325px"><b style="font-size:40px">Electronics</b></td>
  </tr>
  <tr>
     <td>
       <ul>
-           <li>RHEL-based systems</li>
-           <li>Debian/Ubuntu-based systems</li>
-           <li>Arch-based systems</li>
+           <li>RHEL</li>
+           <li>Debian/Ubuntu</li>
+           <li>Arch</li>
       </ul>
     </td>
     <td>
@@ -61,7 +27,7 @@
     </td>
     <td>
       <ul>
-           <li>Advanced logic</li>
+           <li>Circuit logic</li>
            <li>CPU programming</li>
            <li>RISC-V architecture</li>
       </ul>
@@ -69,9 +35,27 @@
  </tr>
 </table>
 
----
 
-### Previous Projects:
+## Tech:
+
+- Distributed systems
+- IoT / Smart Home systems
+- Conversational AI
+- Natural Language Processing
+- Data Engineering
+- CLI applications
+
+
+## Languages:
+
+- Python
+- HTML+CSS
+- GO (learning)
+- R
+- C
+
+
+## Previous Projects:
 
 - MSc Thesis Project:
   - Building a crowdsourcing data collection infrastructure for conversational agents
@@ -87,6 +71,9 @@
   - Using webscraping, data mining and sentiment analysis to analyze tweets by outspoken business owners 
     as well as tweets related to them and their businesses, in order to prove and predict their effect on the stock market
   - Achieved accuracy higher than baseline, results statistically significant (on the example of Musk and Tesla)
+
+
+
 
 
 <!--
@@ -143,3 +130,18 @@
 </table>
 -->
 
+
+<!--
+- Linux sys admin:
+  - RHEL
+  - Debian/Ubuntu
+  - Arch
+- DevOps tools:
+  - Git
+  - Docker
+  - Ansible
+- Electronics:
+  - Logic circuits
+  - CPU programming
+  - RISC-V
+-->
