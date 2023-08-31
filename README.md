@@ -1,7 +1,6 @@
 
 ![cyborg-typing](https://github.com/d-muis/d-muis/assets/71331759/8bb09c1f-2bb4-49ce-b721-9f26f93af82f)
 
----
 
 ## Languages:
 
@@ -57,8 +56,7 @@
   - Using webscraping, data mining and sentiment analysis to analyze tweets by outspoken business owners 
     as well as tweets related to them and their businesses, in order to prove and predict their effect on the stock market
   - Achieved accuracy higher than baseline, results statistically significant (on the example of Musk and Tesla)
-    
----
+
 
 <!--
 <table width:100% border="0" cellspacing="0" cellpadding="0">
