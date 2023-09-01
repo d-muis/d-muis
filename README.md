@@ -11,12 +11,12 @@
 ### Tech:
 
 - Distributed systems
-- IoT / Smart Home systems
+- IoT / SmartHome systems
 - Conversational AI
 - Natural Language Processing
 - Data Engineering
 - CLI applications
-
+- Linux system maintenance
 
 
 ### Languages:
