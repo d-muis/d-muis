@@ -29,10 +29,11 @@
  <tr>
     <td>
       <ul>
-           <li>Python</li>
-           <li>GO (learning)</li>
-           <li>C</li>
-           <li>HTML+CSS</li>
+        <li>Python</li>
+        <li>C</li>
+        <li>GO (learning)</li>
+        <li>Rust (learning)</li>
+        <li>HTML+CSS</li>
       </ul>
     </td>
     <td>
