@@ -103,7 +103,7 @@
     as well as tweets related to them and their businesses, in order to prove and predict their effect on the stock market
   - Achieved accuracy higher than baseline, results statistically significant (on the example of Musk and Tesla)
 
-
+<br/><br/>
 
 
 
