@@ -23,8 +23,8 @@
 
 <table width:100% border="0" cellspacing="0" cellpadding="0">
  <tr>
-    <th width="325px"><b>Preferred</b></th>
-    <th width="325px"><b>Basic knowledge</b></th>
+    <th width="250px"><b>Preferred</b></th>
+    <th width="250px"><b>Basic knowledge</b></th>
  </tr>
  <tr>
     <td>
