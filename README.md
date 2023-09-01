@@ -2,7 +2,52 @@
 ![cyborg-typing](https://github.com/d-muis/d-muis/assets/71331759/8bb09c1f-2bb4-49ce-b721-9f26f93af82f)
 
 
-## Skills:
+<!--
+<img align="right" src="https://github.com/d-muis/d-muis/assets/71331759/cd82ae75-7552-44e9-8ca5-2adf9c5c235f">
+-->
+
+
+
+### Tech:
+
+- Distributed systems
+- IoT / Smart Home systems
+- Conversational AI
+- Natural Language Processing
+- Data Engineering
+- CLI applications
+
+
+
+### Languages:
+
+<table width:100% border="0" cellspacing="0" cellpadding="0">
+ <tr>
+    <th width="325px"><b>Preferred</b></th>
+    <th width="325px"><b>Basic knowledge</b></th>
+ </tr>
+ <tr>
+    <td>
+      <ul>
+           <li>Python</li>
+           <li>GO (learning)</li>
+           <li>C</li>
+           <li>HTML+CSS</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+           <li>C++</li>
+           <li>Java</li>
+           <li>R</li>
+      </ul>
+    </td>
+ </tr>
+</table>
+
+
+
+### Skills:
 
 <table width:100% border="0" cellspacing="0" cellpadding="0">
  <tr>
@@ -36,31 +81,8 @@
 </table>
 
 
-<!--
-<img align="right" src="https://github.com/d-muis/d-muis/assets/71331759/cd82ae75-7552-44e9-8ca5-2adf9c5c235f">
--->
 
-
-## Tech:
-
-- Distributed systems
-- IoT / Smart Home systems
-- Conversational AI
-- Natural Language Processing
-- Data Engineering
-- CLI applications
-
-
-## Languages:
-
-- Python
-- HTML+CSS
-- GO (learning)
-- R
-- C
-
-
-## Previous Projects:
+### Previous Projects:
 
 - MSc Thesis Project:
   - Building a crowdsourcing data collection infrastructure for conversational agents
