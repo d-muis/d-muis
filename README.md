@@ -37,10 +37,11 @@
     </td>
     <td>
       <ul>
-           <li>C++</li>
-           <li>Java</li>
-           <li>R</li>
-           <li>Assembly (ARM Cortex)</li>
+        <li>Bash</li>
+        <li>C++</li>
+        <li>Java</li>
+        <li>R</li>
+        <li>Assembly (ARM Cortex)</li>
       </ul>
     </td>
  </tr>
