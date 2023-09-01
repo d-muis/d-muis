@@ -30,7 +30,7 @@
     <td>
       <ul>
         <li>Python</li>
-        <li>GO (learning)</li>
+        <li>GO</li>
         <li>Rust (learning)</li>
         <li>C</li>
         <li>HTML+CSS</li>
