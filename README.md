@@ -40,6 +40,7 @@
            <li>C++</li>
            <li>Java</li>
            <li>R</li>
+           <li>Assembly (ARM Cortex)</li>
       </ul>
     </td>
  </tr>
